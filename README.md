@@ -24,9 +24,8 @@ Open the terminal and type following commands.
 
 # Requiremnts: 
      
-    (1). First of go to github and install the zip file of metasploit.
-    (2). Then move the zip file to MSFinstaller Directory.
-    (3). Finally, Apply the commands that are given below.👇👇
+    (1). First of go to github and install the zip file of metaspkoit-framework.(Do not cloning the repo)
+    (2). Finally, Apply the commands that are given below.👇👇
     
 
 How to use MSFinstaller ?
