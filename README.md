@@ -43,7 +43,5 @@ Then it start automatically installing msf.You need to be have patience.
 
 
 
-Watch Practical Here: 
 
-https://youtu.be/cCgeWjcml5o
 
