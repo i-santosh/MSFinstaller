@@ -35,6 +35,10 @@ MSFinstaller is very simple and easy to use tool.
      
 Type: 
 
+    wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh  
+
+    chmod +x metasploit.sh
+
     cd MSFinstaller
 
     python msfinstall.py
