@@ -7,7 +7,7 @@ MSFinstaller
 Operating System Requirements
 
 
-How to install MSFinstaller?
+# How to install MSFinstaller?
 
 Open the terminal and type following commands.
 
@@ -24,11 +24,11 @@ Open the terminal and type following commands.
 
 # Requiremnts: 
      
-    (1). First of go to github and install the zip file of metaspkoit-framework.(Do not cloning the repo)
+    (1). First of go to github and install the zip file of metasploit-framework.(Do not cloning the repo)
     (2). Finally, Apply the commands that are given below.👇👇
     
 
-How to use MSFinstaller ?
+# How to use MSFinstaller ?
 
 MSFinstaller is very simple and easy to use tool.
 
