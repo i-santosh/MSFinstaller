@@ -25,7 +25,11 @@ Open the terminal and type following commands.
 # Requiremnts: 
      
     (1). First of go to github and install the zip file of metasploit-framework.(Do not cloning the repo)
-    (2). Finally, Apply the commands that are given below.👇👇
+    (2). Now unzip with termux:
+      
+         unzip <file-name>
+
+    (3). Finally, Apply the commands that are given below.👇👇
     
 
 # How to use MSFinstaller ?
